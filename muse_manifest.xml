@@ -1,0 +1,55 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="luxuryfirm.se" resolutions="1x" timestamp="1486618728747">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="236740911" ref="index"/>
+    <file name="404.css" crc="160593171" ref="404"/>
+    <file name="headervideo.css" crc="4269173106" ref="headervideo"/>
+  </folder>
+  <folder name="assets">
+    <file name="luxuryfirmloop.mp4" crc="3974317631" seo="true" mt="1486507109000"/>
+    <file name="luxuryfirmloop.webm" crc="3937997580" seo="true" mt="1486608573000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:headervideo:404"/>
+    <file name="museutils.js" crc="4148063285" ref="index:headervideo:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:headervideo:404"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:headervideo:404"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:headervideo:404"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index:headervideo:404"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 2.png" crc="4240653749" seo="true" ref="index:404"/>
+    <file name="u241-6.png" crc="484609580" ref="index"/>
+    <file name="u238-4.png" crc="369860306" ref="index"/>
+    <file name="u237-4.png" crc="160709966" ref="index"/>
+    <file name="ivewle-gide-hunter-bryant-crop-u424.jpg" crc="27253062" ref="index"/>
+    <file name="u451-4.png" crc="459679690" ref="index"/>
+    <file name="jrmtmrnq4ug-william-stitt.jpg" crc="16784990" seo="true" ref="index"/>
+    <file name="u443-8.png" crc="371983317" ref="index"/>
+    <file name="u495-4.png" crc="4282422207" ref="index"/>
+    <file name="ryvaxaojo2q-i-m-priscilla.jpg" crc="436338463" seo="true" ref="index"/>
+    <file name="u480-4.png" crc="509944559" ref="index"/>
+    <file name="oj82k0a0xoe-anh-phan.jpg" crc="179525010" seo="true" ref="index"/>
+    <file name="u466-4.png" crc="434719733" ref="index"/>
+    <file name="u590-4.png" crc="350743869" ref="index"/>
+    <file name="xclqn-2r9cm-nick-karvounis.jpg" crc="426555648" seo="true" ref="index"/>
+    <file name="asset 7@4x.png" crc="3877994024" seo="true" ref="index"/>
+    <file name="u613-7.png" crc="3849560450" ref="index"/>
+    <file name="asset 7@4x50x40.png" crc="99243128" seo="true" ref="index"/>
+    <file name="u657-4.png" crc="4092602150" ref="index"/>
+    <file name="u678-8.png" crc="362133425" ref="index"/>
+    <file name="u667-12.png" crc="4009937719" ref="index"/>
+    <file name="u670-10.png" crc="348282929" ref="index"/>
+    <file name="u681-4.png" crc="3788974953" ref="index"/>
+    <file name="u675-12.png" crc="468935999" ref="index"/>
+    <file name="u198-6.png" crc="308529179" ref="headervideo"/>
+    <file name="u567-6.png" crc="484609580" ref="404"/>
+    <file name="u540-4.png" crc="488838344" ref="404"/>
+    <file name="u544-4.png" crc="337417173" ref="404"/>
+    <file name="u550-4.png" crc="3931302163" ref="404"/>
+  </folder>
+  <file name="index.html" crc="371563748" seo="true" mt="1486616523697" redirect="true"/>
+  <file name="headervideo.html" crc="3939580489" seo="true" mt="1486615563271" redirect="true"/>
+  <file name="404.html" crc="216869968" seo="true" mt="1486615563271" redirect="true"/>
+</manifest>
